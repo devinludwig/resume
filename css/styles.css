@@ -1,0 +1,34 @@
+.header {
+  font-weight: bolder;
+  font-family: cursive;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.education {
+  color: blue;
+  font-style: italic;
+}
+
+.experience {
+  color:red;
+  font-weight: bold;
+}
+
+.skills {
+  color: orange;
+  font-variant: small-caps;
+}
+
+.web {
+  font-weight: bolder;
+  color: purple;
+}
+
+.trust {
+  font-style: italic;
+  color: pink;
+}
